@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop Preview](./screenshot.png)
+[Desktop Preview](screenshots/desktop-view.png)
+[Mobile Preview](screenshots/mobile-view.png)
 
 ### Links
 
